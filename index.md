@@ -1,5 +1,5 @@
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="my_test/favicon.ico">
 </head>
 
 # Welcome to Nishant's test page 
