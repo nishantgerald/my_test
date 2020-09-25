@@ -3,7 +3,7 @@ I am creating this page to test out the functionality of github pages and what i
 
 <br>
 
-<u>## Watch my favorite David Dobrik videos</u>
+## <u> Watch my favorite David Dobrik videos</u>
 <br>
 1. ### Charlie Puth has an amazing Talent
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRPNw6_SfTA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
