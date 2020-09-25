@@ -1,3 +1,7 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 # Welcome to Nishant's test page 
 I am creating this page to test out the functionality of github pages and what it has to offer
 
