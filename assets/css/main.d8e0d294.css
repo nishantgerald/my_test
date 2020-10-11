@@ -27,6 +27,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
+    top: 0;
     width: 100%;
     position:fixed;
     background-color: #000;
@@ -53,4 +54,9 @@
   .topnav a.active {
     background-color: #000;
     color: #f2f2f2;
+  }
+
+  
+  .main {
+    margin-bottom: 30px; /* Add a bottom margin to avoid content overlay */
   }
