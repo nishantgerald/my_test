@@ -27,6 +27,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
+    z-index: 99999;
     top: 0;
     width: 100%;
     position:fixed;
