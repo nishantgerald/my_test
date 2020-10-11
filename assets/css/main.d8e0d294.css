@@ -27,6 +27,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
+    width: 100%;
     position:fixed;
     background-color: #000;
     overflow: hidden;
